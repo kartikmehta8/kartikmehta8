@@ -3,6 +3,7 @@
 
 <h6 align="center"> <img src="https://komarev.com/ghpvc/?username=kartikmehta8&label=Mehta's%20Visibility&color=000000&style=round" alt="kartikmehta8" /> </h6>
 
+
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikmehta8" alt="kartikmehta8" /></a> </p> -->
 
 - 🔭 I’m working as **SDE Intern at Raahee.**
