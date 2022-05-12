@@ -7,7 +7,7 @@
 
 - 🔭 I’m working as **SDE Intern at Raahee.**
 
-- 👯 I’m looking to collaborate on **open source projects.**
+- 👯 I’m looking to collaborate on **Open Source Projects.**
 
 - 👨‍💻 All of my projects are available at [kartikmehta.engineer](https://www.kartikmehta.engineer/)
 
