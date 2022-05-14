@@ -28,6 +28,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikmehta8&show_icons=true&locale=en" alt="kartikmehta8" /></p>
 
+<!-- <p align="center">
+  <img src="https://leetcode-stat-api.herokuapp.com/kartik_mehta8/" />
+</p> -->
 
 <p align="center">
   <img src="https://github.com/kartikmehta8/kartikmehta8/blob/output/github-contribution-grid-snake.gif" alt="Mehta's Snake" />
