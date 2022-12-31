@@ -33,9 +33,9 @@
 
  <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikmehta8&show_icons=true&locale=en&layout=compact" alt="kartikmehta8" /></p> -->
 
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikmehta8&" alt="kartikmehta8" /></p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikmehta8&" alt="kartikmehta8" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikmehta8&show_icons=true&locale=en" alt="kartikmehta8" /></p> -->
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikmehta8&show_icons=true&locale=en" alt="kartikmehta8" /></p> -->
 
 <!-- <p align="center">
   <img src="https://leetcode-stat-api.herokuapp.com/kartik_mehta8/" />
