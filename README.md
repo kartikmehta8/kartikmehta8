@@ -42,7 +42,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github.com/kartikmehta8/kartikmehta8/blob/output/github-contribution-grid-snake.gif" alt="Mehta's Snake" />
+  <img src="https://github.com/kartikmehta8/kartikmehta8/blob/output/github-contribution-grid-snake.svg" alt="Mehta's Snake" />
 </p>
 
 
