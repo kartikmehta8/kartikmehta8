@@ -39,11 +39,11 @@
 
 <!-- <p align="center">
   <img src="https://leetcode-stat-api.herokuapp.com/kartik_mehta8/" />
-</p> -->
+</p> 
 
 <p align="center">
   <img src="https://github.com/kartikmehta8/kartikmehta8/blob/output/github-contribution-grid-snake.svg" alt="Mehta's Snake" />
 </p>
+-->
 
-
- <img src="https://komarev.com/ghpvc/?username=kartikmehta8&label=visitors%20" alt="kartikmehta8" />
+ <img src="https://komarev.com/ghpvc/?username=kartikmehta8&label=%20" alt="kartikmehta8" />
