@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77505989/200022909-15747d5f-0901-44b4-b012-2c490dac8921.png" alt="BANNER" />
+  <img src="https://github.com/kartikmehta8/kartikmehta8/assets/77505989/8f2fc302-b782-47ac-89d0-b2c755fa34b3" alt="BANNER" />
 </p>
-
 
 
 
